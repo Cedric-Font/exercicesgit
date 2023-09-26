@@ -1,2 +1,2 @@
-# exercicesgit
+local
 bonjour
